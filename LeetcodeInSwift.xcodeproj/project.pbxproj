@@ -27,6 +27,7 @@
 		548FD9FC287154EB00E0AD82 /* MedianOfTwoSortedArrays.swift in Sources */ = {isa = PBXBuildFile; fileRef = 548FD9FB287154EB00E0AD82 /* MedianOfTwoSortedArrays.swift */; };
 		548FD9FE2871628700E0AD82 /* BestTimeToBuyAndSellStock.swift in Sources */ = {isa = PBXBuildFile; fileRef = 548FD9FD2871628700E0AD82 /* BestTimeToBuyAndSellStock.swift */; };
 		548FDA042871BF1300E0AD82 /* CheckPalindrome.swift in Sources */ = {isa = PBXBuildFile; fileRef = 548FDA032871BF1300E0AD82 /* CheckPalindrome.swift */; };
+		548FDA0C2871C80300E0AD82 /* CheckUpLowerCaseBalance.swift in Sources */ = {isa = PBXBuildFile; fileRef = 548FDA0B2871C80300E0AD82 /* CheckUpLowerCaseBalance.swift */; };
 		54B763552863376C00230FE4 /* FindNumbersWithEvenNumberOfDigits.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54B763542863376C00230FE4 /* FindNumbersWithEvenNumberOfDigits.swift */; };
 		54E2F46B2868359400373B4A /* SquaresOfASortedArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54E2F46A2868359400373B4A /* SquaresOfASortedArray.swift */; };
 		54E2F46D28683B1400373B4A /* DuplicateZeros.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54E2F46C28683B1400373B4A /* DuplicateZeros.swift */; };
@@ -76,6 +77,7 @@
 		548FD9FB287154EB00E0AD82 /* MedianOfTwoSortedArrays.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MedianOfTwoSortedArrays.swift; sourceTree = "<group>"; };
 		548FD9FD2871628700E0AD82 /* BestTimeToBuyAndSellStock.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BestTimeToBuyAndSellStock.swift; sourceTree = "<group>"; };
 		548FDA032871BF1300E0AD82 /* CheckPalindrome.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckPalindrome.swift; sourceTree = "<group>"; };
+		548FDA0B2871C80300E0AD82 /* CheckUpLowerCaseBalance.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckUpLowerCaseBalance.swift; sourceTree = "<group>"; };
 		54B763542863376C00230FE4 /* FindNumbersWithEvenNumberOfDigits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindNumbersWithEvenNumberOfDigits.swift; sourceTree = "<group>"; };
 		54E2F46A2868359400373B4A /* SquaresOfASortedArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SquaresOfASortedArray.swift; sourceTree = "<group>"; };
 		54E2F46C28683B1400373B4A /* DuplicateZeros.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DuplicateZeros.swift; sourceTree = "<group>"; };
@@ -265,6 +267,7 @@
 			isa = PBXGroup;
 			children = (
 				548FDA032871BF1300E0AD82 /* CheckPalindrome.swift */,
+				548FDA0B2871C80300E0AD82 /* CheckUpLowerCaseBalance.swift */,
 			);
 			path = FoodPanda;
 			sourceTree = "<group>";
@@ -415,6 +418,7 @@
 				548FD9ED28700FEC00E0AD82 /* FourSum.swift in Sources */,
 				548FD9F42870286500E0AD82 /* PascalsTriangle.swift in Sources */,
 				548FD9E2286B0D5A00E0AD82 /* ThreeSum.swift in Sources */,
+				548FDA0C2871C80300E0AD82 /* CheckUpLowerCaseBalance.swift in Sources */,
 				5434B8E328578A6E0067AF6E /* LinkedListTests.swift in Sources */,
 				54E2F46B2868359400373B4A /* SquaresOfASortedArray.swift in Sources */,
 				54E2F47F286ABC5E00373B4A /* HeightChecker.swift in Sources */,
