@@ -12,7 +12,7 @@ class CheckUpLowerCaseBalance: XCTestCase {
     /**
      A string is called balanced when every letter occurring in the string,
      appears both in upper- and lowercase.
-     For example, the string "CATattac' is balanced ('a', 'c' and 'I' occur in both cases),
+     For example, the string "CATattac' is balanced ('a', 'c' and 't' occur in both cases),
      but "Madam" is not ('d' and 'a' appear only in lowercase).
      Note that the number of occurrences does not matter.
 
